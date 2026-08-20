@@ -1,0 +1,8 @@
+{
+  "name": "NexMonitor - 24x7 Infrastructure Monitoring & Incident Management",
+  "description": "Company profile and service overview for NexMonitor: 24x7 NOC Operations, Infrastructure Monitoring, Incident Management, and IT Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
